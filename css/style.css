@@ -531,4 +531,8 @@ footer .footer-content ul li img{
     .navigation .social-bar{
        left: 0;
     }
+
+    .home-content{
+        margin-bottom: 45px;
+    }
 }
