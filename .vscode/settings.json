@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "agency site"
+    "liveServer.settings.multiRootWorkspaceName": "agency site",
+    "liveServer.settings.port": 5501
 }

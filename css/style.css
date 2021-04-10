@@ -169,9 +169,19 @@ footer .footer-content ul li{
     padding: 10px;
     
 }
-footer .footer-content ul li img{
-    transform: scale(0.7);
-  
+
+footer .footer-content ul li a{
+    text-decoration: none;
+}
+
+footer .footer-content ul li a i{
+    transform: scale(1.5);
+    color: #fff;
+    margin-right: 5px;
+}
+
+footer .footer-content ul li a i:hover{
+    transform: scale(1.7);
 }
 
 /* HOMEPAGE */
